@@ -1,15 +1,5 @@
-2024-06-03T11:00:15.423Z - INFO: This is an info message
-2024-06-03T11:00:15.424Z - WARNING: This is a warning message
-2024-06-03T11:00:15.425Z - ERROR: This is an error message
-2024-06-05T11:00:23.938Z - INFO: This is an info message
-2024-06-05T11:00:23.939Z - WARNING: This is a warning message
-2024-06-05T11:00:23.939Z - ERROR: This is an error message
-2024-06-05T11:00:23.941Z - INFO: custom test message bdb376c8-6c79-481d-83f4-5343bc812d56
-2024-06-05T11:00:23.942Z - WARNING: custom test message a7afc805-cacd-42ae-b740-0d24154bb2c2
-2024-06-05T11:00:23.942Z - ERROR: custom test message c4a8b355-4143-4e75-974b-e33ae5193ec8
-2024-06-05T11:00:36.447Z - INFO: This is an info message
-2024-06-05T11:00:36.448Z - WARNING: This is a warning message
-2024-06-05T11:00:36.448Z - ERROR: This is an error message
-2024-06-05T11:00:36.451Z - INFO: custom test message f62d8d92-b265-4341-964d-c2d983818b3f
-2024-06-05T11:00:36.452Z - WARNING: custom test message 610db3fc-b203-4e3b-9df7-bbdd9190d668
-2024-06-05T11:00:36.453Z - ERROR: custom test message f34036a2-9d10-4278-887d-94469c591ab5
+2024-07-24T11:44:36.296Z | INFO | This is an info message
+
+2024-07-24T11:44:36.301Z | WARNING | This is a warning message
+
+2024-07-24T11:44:36.301Z | ERROR | This is an error message
